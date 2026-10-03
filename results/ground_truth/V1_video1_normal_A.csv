@@ -1,0 +1,6 @@
+track_id,etiqueta,frame_inicio,frame_fin,duracion_seg,valido
+0,cierre_ocular,792,915,4.1,True
+1,cierre_ocular,1129,1290,5.37,True
+2,cierre_ocular,1506,1687,6.04,True
+3,bostezo,1786,1973,6.24,True
+4,bostezo,2108,2267,5.3,True

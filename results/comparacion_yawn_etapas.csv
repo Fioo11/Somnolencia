@@ -1,0 +1,3 @@
+etapa,val_acc,exactitud_test,auc_roc_test
+Etapa 1 (clasificador),0.9518229166666666,,
+Etapa 2 (fine-tuning),0.9713541666666666,0.9778645833333334,0.9980533266409373
