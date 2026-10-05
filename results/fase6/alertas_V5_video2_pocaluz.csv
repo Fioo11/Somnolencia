@@ -1,0 +1,5 @@
+participante,video,condicion,enfoque,evento,frame_inicio_racha,frame_alerta,tiempo_inicio_racha_s,tiempo_alerta_s,frames_persistencia,duracion_min_seg
+P05,V5_video2_pocaluz,poca_luz,O1,cierre_ocular,241,255,8.043236014994234,8.510477941176472,15,0.5
+P05,V5_video2_pocaluz,poca_luz,O1,cierre_ocular,417,431,13.917134515570934,14.384376441753172,15,0.5
+P05,V5_video2_pocaluz,poca_luz,O1,cierre_ocular,597,611,19.924530709342562,20.3917726355248,15,0.5
+P05,V5_video2_pocaluz,poca_luz,O1,cierre_ocular,804,818,26.833036332179933,27.30027825836217,15,0.5

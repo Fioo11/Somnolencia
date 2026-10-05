@@ -1,0 +1,11 @@
+participante,video,condicion,enfoque,evento,frame_inicio_racha,frame_alerta,tiempo_inicio_racha_s,tiempo_alerta_s,frames_persistencia,duracion_min_seg
+P05,V5_video1_normal,normal,O1,cierre_ocular,633,647,21.129300725917204,21.596615433915375,15,0.5
+P05,V5_video1_normal,normal,O2,cierre_ocular,640,654,21.36295807991629,21.83027278791446,15,0.5
+P05,V5_video1_normal,normal,O1,cierre_ocular,774,788,25.835827427898764,26.30314213589693,15,0.5
+P05,V5_video1_normal,normal,O2,cierre_ocular,815,829,27.2043919298934,27.671706637891567,15,0.5
+P05,V5_video1_normal,normal,O1,cierre_ocular,1019,1033,34.013834817866716,34.481149525864886,15,0.5
+P05,V5_video1_normal,normal,O2,cierre_ocular,1026,1040,34.2474921718658,34.71480687986397,15,0.5
+P05,V5_video1_normal,normal,O2,cierre_ocular,1087,1101,36.28364911385783,36.75096382185599,15,0.5
+P05,V5_video1_normal,normal,O1,cierre_ocular,1226,1240,40.923416571839645,41.39073127983781,15,0.5
+P05,V5_video1_normal,normal,O2,cierre_ocular,1230,1244,41.05693505983912,41.52424976783729,15,0.5
+P05,V5_video1_normal,normal,O2,cierre_ocular,1324,1338,44.19461952782682,44.661934235824994,15,0.5

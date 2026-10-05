@@ -1,0 +1,6 @@
+﻿criterio,descripcion,resultado_principal,resultado
+CE1,Mejora del desempeño O2 frente a O1,Wilcoxon W=18.0; p=0.527344,NO CUMPLE
+CE2,Eficiencia en tiempo real solo CPU,21.653 FPS; 46.373 ms/frame,CUMPLE
+CE3,Robustez ante condición adversa poca luz,t unilateral=-0.2168; p=0.581520,NO CUMPLE
+CE3-L,Robustez ante lentes,Análisis descriptivo,DESCRIPTIVO
+CE4,Tiempo desde inicio del evento hasta alerta,Evaluación descriptiva,REPORTADO

@@ -1,0 +1,14 @@
+participante,video,condicion,enfoque,evento,frame_inicio_racha,frame_alerta,tiempo_inicio_racha_s,tiempo_alerta_s,frames_persistencia,duracion_min_seg
+P02,V2_video1_normal,normal,O1,cierre_ocular,454,468,15.13657619047619,15.603342857142858,15,0.5
+P02,V2_video1_normal,normal,O1,bostezo,565,654,18.837369047619045,21.804671428571428,90,3.0
+P02,V2_video1_normal,normal,O2,bostezo,566,655,18.870709523809523,21.838011904761903,90,3.0
+P02,V2_video1_normal,normal,O1,cierre_ocular,791,805,26.372316666666666,26.83908333333333,15,0.5
+P02,V2_video1_normal,normal,O2,cierre_ocular,796,810,26.539019047619046,27.005785714285715,15,0.5
+P02,V2_video1_normal,normal,O1,cierre_ocular,1046,1060,34.874138095238095,35.34090476190476,15,0.5
+P02,V2_video1_normal,normal,O2,cierre_ocular,1046,1060,34.874138095238095,35.34090476190476,15,0.5
+P02,V2_video1_normal,normal,O1,cierre_ocular,1341,1355,44.70957857142857,45.17634523809524,15,0.5
+P02,V2_video1_normal,normal,O2,cierre_ocular,1341,1355,44.70957857142857,45.17634523809524,15,0.5
+P02,V2_video1_normal,normal,O1,cierre_ocular,1438,1452,47.94360476190476,48.41037142857143,15,0.5
+P02,V2_video1_normal,normal,O2,cierre_ocular,1439,1453,47.97694523809524,48.443711904761905,15,0.5
+P02,V2_video1_normal,normal,O1,cierre_ocular,1605,1619,53.51146428571428,53.978230952380954,15,0.5
+P02,V2_video1_normal,normal,O2,cierre_ocular,1606,1620,53.54480476190476,54.01157142857143,15,0.5

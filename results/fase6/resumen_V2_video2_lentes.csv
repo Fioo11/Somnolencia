@@ -1,0 +1,2 @@
+participante,video,condicion,fps_video,frames_procesados,rostros_detectados,fallos_rostro,tasa_fallo_rostro_pct,tiempo_procesamiento_s,fps_procesamiento,latencia_media_ms,alertas_o1,alertas_o2
+P02,V2_video2_lentes,lentes,29.98251526746573,1972,1972,0,0.0,103.18135910003912,19.111979307115487,52.323204411784545,10,15

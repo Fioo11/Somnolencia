@@ -1,0 +1,17 @@
+{
+    "ear_threshold": 0.1404,
+    "mar_threshold": 0.1624,
+    "fusion_eye_threshold": 0.580015,
+    "fusion_yawn_threshold": 0.585053,
+    "eye_cnn_weight": 0.5,
+    "geometry_weight": 0.5,
+    "eye_persistence_seconds": 0.5,
+    "yawn_persistence_seconds": 3.0,
+    "perclos_window_seconds": 15,
+    "eye_crop_margin": 0.35,
+    "mouth_crop_margin": 0.2,
+    "input_size": [
+        224,
+        224
+    ]
+}

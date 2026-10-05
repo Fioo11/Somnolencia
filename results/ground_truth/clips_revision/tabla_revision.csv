@@ -1,0 +1,8 @@
+caso,video,etiqueta,estado,A_inicio,A_fin,B_inicio,B_fin,clip_inicio,clip_fin,archivo_clip
+1,V3_video1_normal,cierre_ocular,EMPAREJADO,2611.0,2805.0,2634.0,2703.0,2551,2865,01_V3_video1_normal_cierre_ocular.mp4
+2,V4_video1_normal,cierre_ocular,SOLO_A,239.0,275.0,,,180,334,02_V4_video1_normal_cierre_ocular.mp4
+3,V6_video1_normal,bostezo,SOLO_A,1669.0,1770.0,,,1609,1830,03_V6_video1_normal_bostezo.mp4
+4,V6_video2_pocaluz,bostezo,SOLO_B,,,1972.0,2068.0,1912,2128,04_V6_video2_pocaluz_bostezo.mp4
+5,V8_video1_normal,bostezo,SOLO_A,1223.0,1314.0,,,1163,1374,05_V8_video1_normal_bostezo.mp4
+6,V8_video2_lentes,bostezo,SOLO_A,1566.0,1682.0,,,1506,1742,06_V8_video2_lentes_bostezo.mp4
+7,V9_video1_normal,bostezo,SOLO_A,1337.0,1434.0,,,1277,1494,07_V9_video1_normal_bostezo.mp4

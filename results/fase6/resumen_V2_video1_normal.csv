@@ -1,0 +1,2 @@
+participante,video,condicion,fps_video,frames_procesados,rostros_detectados,fallos_rostro,tasa_fallo_rostro_pct,tiempo_procesamiento_s,fps_procesamiento,latencia_media_ms,alertas_o1,alertas_o2
+P02,V2_video1_normal,normal,29.993572805827323,2100,2100,0,0.0,116.53841889998876,18.019808573189785,55.49448519047084,7,6

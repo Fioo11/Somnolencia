@@ -1,0 +1,2 @@
+participante,video,condicion,fps_video,frames_procesados,rostros_detectados,fallos_rostro,tasa_fallo_rostro_pct,tiempo_procesamiento_s,fps_procesamiento,latencia_media_ms,alertas_o1,alertas_o2
+P09,V9_video2_pocaluz,poca_luz,24.00060432446884,1578,1578,0,0.0,85.15304260002449,18.53134018254735,53.9626378960865,7,9
